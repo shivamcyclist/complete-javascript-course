@@ -9,3 +9,6 @@ console.log(firstName);
 
 let _name = "Shwetanki";
 console.log(_name);
+
+let age_of_Shivam = 27;
+console.log(age_of_Shivam);
